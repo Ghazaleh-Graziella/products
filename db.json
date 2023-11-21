@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue Denim Jacket",
+      "price": "$49.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 2,
+      "name": "Leather Biker Jacket",
+      "price": "$89.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 3,
+      "name": "Hooded Puffer Jacket",
+      "price": "$59.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Black Bomber Jacket",
+      "price": "$79.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 5,
+      "name": "Parka with Faux Fur Hood",
+      "price": "$99.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 6,
+      "name": "Camouflage Windbreaker",
+      "price": "$69.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 7,
+      "name": "Quilted Down Jacket",
+      "price": "$129.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 8,
+      "name": "Brown Suede Jacket",
+      "price": "$149.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 9,
+      "name": "Varsity Jacket",
+      "price": "$79.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 10,
+      "name": "Wool Peacoat",
+      "price": "$119.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 11,
+      "name": "Red Puffer Jacket",
+      "price": "$69.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 12,
+      "name": "Faux Leather Moto Jacket",
+      "price": "$99.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 13,
+      "name": "Rain Jacket",
+      "price": "$59.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 14,
+      "name": "Trench Coat",
+      "price": "$169.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 15,
+      "name": "Green Military Jacket",
+      "price": "$89.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 16,
+      "name": "Fleece-lined Denim Jacket",
+      "price": "$79.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 17,
+      "name": "Bomber Jacket with Patches",
+      "price": "$109.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 18,
+      "name": "Plaid Wool Blazer",
+      "price": "$89.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 19,
+      "name": "Camo Print Jacket",
+      "price": "$79.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    },
+    {
+      "id": 20,
+      "name": "Fur-lined Parka",
+      "price": "$199.99",
+      "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/content-gallery-3.png"
+    }
+  ]
+}
